@@ -1,0 +1,11 @@
+﻿tensorflow>=2.10.0
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+notebook
+flask
+flask-cors
+pillow
